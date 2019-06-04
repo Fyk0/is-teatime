@@ -1,0 +1,39 @@
+{
+	"name": "is-teatime",
+	"version": "1.0.2",
+	"description": "Determins if now is a good time for tea",
+	"typings": "typings/index.d.ts",
+	"main": "src/lib/index.js",
+	"scripts": {
+		"test": "eslint src --ext .js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Fyk0/is-teatime"
+	},
+	"keywords": [
+		"coffee",
+		"is coffee time",
+		"coffee",
+		"coffee time",
+		"starbucks",
+		"coffee bean",
+		"tim hortons"
+	],
+	"author": "Fyk0 <sycerdev@gmail.com>",
+	"license": "Apache",
+	"bugs": {
+		"url": "https://github.com/Fyk0/is-teatime/issues"
+	},
+	"homepage": "https://github.com/Fyk0/is-teatime#readme",
+	"engines": {
+		"node": ">=8"
+	},
+	"devDependencies": {
+		"eslint": "^5.16.0",
+		"eslint-config-aqua": "^6.0.0"
+	},
+	"eslintConfig": {
+		"extends": "aqua/node"
+	}
+}
