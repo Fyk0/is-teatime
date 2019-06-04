@@ -1,3 +1,3 @@
 module.exports = () => false;
-// stupid questions, coffee is superior
+// stupid question, coffee is superior
 
